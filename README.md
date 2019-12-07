@@ -51,7 +51,7 @@ For an [editable install](https://stackoverflow.com/questions/35064426/when-woul
 ```
 pip install packaging
 git clone https://github.com/fastai/nbdev
-pip install -e nbdev
+pip install -e .
 ```
 
 ## Getting Started
